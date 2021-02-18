@@ -6,8 +6,8 @@ This is a project done on google Collab
 
 
 ## Description
-
-
+The original dataset of flights had 50000000 records with 30 fields but the data set was too big 
+for analysis so it was trimmed to 1000000 records , 30 fields.
 
 
 ## Technology Used
